@@ -9,6 +9,7 @@
   - 📍 I prefer Statically typed languages
   - 🚀 I love C++ and TypeScript
   - 🐘 I prefer PostgreSQL
+  - 📀 I prefer EL/Fedora-Family as OS
 
 <br >
 
