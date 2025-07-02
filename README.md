@@ -34,6 +34,7 @@
   <code><img width='35' alt='Postgres' src='./images/Postgresql.png'></code>
   <code><img width='35' alt='Redhat' src='./images/Redhat.png'></code>
   <code><img width='35' alt='RockyLinux' src='./images/RockyLinux.png'></code>
+  <code><img width='35' alt='FedoraLinux' src='./images/Fedora.png'></code>
 </div>
 <br />
 
