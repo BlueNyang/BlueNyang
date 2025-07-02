@@ -6,7 +6,7 @@
 
   - 🎓 I'm majoring in Computer Software Engineering at Wonkwang Univ.
   - 💻 I'm interested in Go
-  - 📍 I prefer Statically typed languages
+  - 📍 I prefer statically typed languages
   - 🚀 I love C++ and TypeScript
   - 🐘 I prefer PostgreSQL
   - 📀 I prefer EL/Fedora-Family as OS
@@ -21,7 +21,6 @@
   <code><img width='35' alt='Java' src='./images/Java.png'></code>
   <code><img width='35' alt='JavaScript' src='./images/JavaScript.png'></code>
   <code><img width='35' alt='TypeScript' src='./images/TypeScript.png'></code>
-  <code><img width='35' alt='Go lang' src='./images/Go.png'></code>
   <code><img width='35' alt='Kotlin' src='./images/Kotlin.png'></code>
 </div>
 <div>
@@ -30,6 +29,8 @@
   <code><img width='35' alt='ReactJS' src='./images/ReactJS.png'></code>
   <code><img width='35' alt='SvelteKIT' src='./images/SvelteKIT.png'></code>
   <code><img width='35' alt='Bootstrap' src='./images/Bootstrap.png'></code>
+</div>
+<div>
   <code><img width='35' alt='Postgres' src='./images/Postgresql.png'></code>
   <code><img width='35' alt='Redhat' src='./images/Redhat.png'></code>
   <code><img width='35' alt='RockyLinux' src='./images/RockyLinux.png'></code>
