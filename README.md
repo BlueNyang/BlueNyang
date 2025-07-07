@@ -11,6 +11,9 @@
   - 🐘 I prefer PostgreSQL
   - 📀 I prefer EL/Fedora-Family as OS
 
+- My Blog
+  > <a align="center" href="https://bluenyang-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" /></a>
+  
 <br >
 
 - I have experience with:
