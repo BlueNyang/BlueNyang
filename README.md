@@ -12,7 +12,7 @@
   - 📀 I prefer EL/Fedora-Family as OS
 
 - My Blog
-  > <a align="center" href="https://bluenyang-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" /></a>
+  > <a target="_blank" align="center" href="https://bluenyang-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" /></a>
   
 <br >
 
