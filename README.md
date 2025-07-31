@@ -13,10 +13,9 @@
 
 - My Homepage
   > <a target="_blank" align="center" href="https://www.bluenyang.kr/"><img src="https://img.shields.io/badge/Homepage-7777FF?style=flat&logo=homeadvisor&logoColor=white" /></a>
-  
 - My Blog
   > <a target="_blank" align="center" href="https://bluenyang-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" /></a>
-  
+
 <br >
 
 - I have experience with:
@@ -34,7 +33,10 @@
   <code><img width='35' alt='NodeJS' src='./images/NodeJS.png'></code>
   <code><img width='35' alt='ReactJS' src='./images/ReactJS.png'></code>
   <code><img width='35' alt='SvelteKIT' src='./images/SvelteKIT.png'></code>
+  <code><img width='35' alt='Astro' src='./images/Astro.png'></code>
+  <code><img width='35' alt='Vue.js' src='./images/Vue.js.png'></code>
   <code><img width='35' alt='Bootstrap' src='./images/Bootstrap.png'></code>
+  <code><img width='35' alt='TailwindCSS' src='./images/TailwindCSS.png'></code>
 </div>
 <div>
   <code><img width='35' alt='Postgres' src='./images/Postgresql.png'></code>
