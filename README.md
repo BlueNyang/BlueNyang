@@ -11,10 +11,15 @@
   - 🐘 I prefer PostgreSQL
   - 📀 I prefer EL/Fedora-Family as OS
 
-- My Homepage
-  > <a target="_blank" align="center" href="https://www.bluenyang.kr/"><img src="https://img.shields.io/badge/Homepage-7777FF?style=flat&logo=homeadvisor&logoColor=white" /></a>
-- My Blog
-  > <a target="_blank" align="center" href="https://bluenyang-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" /></a>
+- My Pages
+&nbsp;&nbsp;<div>
+  <a target="_blank" align="center" href="https://www.bluenyang.kr/">
+    <img src="https://img.shields.io/badge/Homepage-29355a?style=for-the-badge&logo=netlify&logoColor=00c7b7" />
+  </a>
+  <a target="_blank" align="center" href="https://bluenyang-dev.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-29355a?style=for-the-badge&logo=Tistory&logoColor=ff5949" />
+  </a>
+</div>
 
 <br >
 
@@ -26,7 +31,6 @@
   <code><img width='35' alt='Java' src='./images/Java.png'></code>
   <code><img width='35' alt='JavaScript' src='./images/JavaScript.png'></code>
   <code><img width='35' alt='TypeScript' src='./images/TypeScript.png'></code>
-  <code><img width='35' alt='Kotlin' src='./images/Kotlin.png'></code>
 </div>
 <div>
   <code><img width='35' alt='.NET' src='./images/Dot-NET.png'></code>
@@ -46,9 +50,15 @@
 </div>
 <br />
 
+<div>
+  <a target="_blank" href="https://github.com/BlueNyang?tab=repositories">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bluenyang&size_weight=0.5&count_weight=0.5&exclude_repo=ComputerGraphics,WindowProgramming&langs_count=6&hide=html,css&layout=compact&theme=tokyonight'/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=bluenyang&theme=tokyonight&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_height=160" alt="GitHub Streak" />
+  </a>
+</div>
+
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=BlueNyang&theme=tokyonight&count_private=true&hide=contribs&show_icons=true"/>
-</a>
-<a>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bluenyang&size_weight=0.5&count_weight=0.5&exclude_repo=ComputerGraphics,WindowProgramming&langs_count=6&hide=html,css&layout=compact&theme=tokyonight'/>
 </a>
