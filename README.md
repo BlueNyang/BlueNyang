@@ -27,8 +27,8 @@
 - I have experience with:
 
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6#gh-dark-mode-only" />
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6&theme=light#gh-light-mode-only" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6" />
+
 </p>
 
 <br />
