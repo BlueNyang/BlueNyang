@@ -24,11 +24,11 @@
 
 <br >
 
-- I have experience with:
-
+<p align="center">
+  I have experience with
+</p>
 <p align="center">
   <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6" />
-
 </p>
 
 <br />
