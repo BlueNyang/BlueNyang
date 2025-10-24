@@ -11,43 +11,26 @@
   - 🐘 I prefer PostgreSQL
   - 📀 I prefer EL/Fedora-Family as OS
 
-- My Pages
-&nbsp;&nbsp;<div>
+<div>
+<p align="center">
   <a target="_blank" align="center" href="https://www.bluenyang.kr/">
     <img src="https://img.shields.io/badge/Homepage-29355a?style=for-the-badge&logo=netlify&logoColor=00c7b7" />
   </a>
   <a target="_blank" align="center" href="https://bluenyang-dev.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-29355a?style=for-the-badge&logo=Tistory&logoColor=ff5949" />
+    <img src="https://img.shields.io/badge/Tistory(Blog)-29355a?style=for-the-badge&logo=Tistory&logoColor=ff5949" />
   </a>
+</p>
 </div>
 
 <br >
 
 - I have experience with:
-<div>
-  <code><img width='35' alt='C' src='./images/C.png'></code>
-  <code><img width='35' alt='C++' src='./images/C++.png'></code>
-  <code><img width='35' alt='C#' src='./images/C-Sharp.png'></code>
-  <code><img width='35' alt='Java' src='./images/Java.png'></code>
-  <code><img width='35' alt='JavaScript' src='./images/JavaScript.png'></code>
-  <code><img width='35' alt='TypeScript' src='./images/TypeScript.png'></code>
-</div>
-<div>
-  <code><img width='35' alt='.NET' src='./images/Dot-NET.png'></code>
-  <code><img width='35' alt='NodeJS' src='./images/NodeJS.png'></code>
-  <code><img width='35' alt='ReactJS' src='./images/ReactJS.png'></code>
-  <code><img width='35' alt='SvelteKIT' src='./images/SvelteKIT.png'></code>
-  <code><img width='35' alt='Astro' src='./images/Astro.png'></code>
-  <code><img width='35' alt='Vue.js' src='./images/Vue.js.png'></code>
-  <code><img width='35' alt='Bootstrap' src='./images/Bootstrap.png'></code>
-  <code><img width='35' alt='TailwindCSS' src='./images/TailwindCSS.png'></code>
-</div>
-<div>
-  <code><img width='35' alt='Postgres' src='./images/Postgresql.png'></code>
-  <code><img width='35' alt='Redhat' src='./images/Redhat.png'></code>
-  <code><img width='35' alt='RockyLinux' src='./images/RockyLinux.png'></code>
-  <code><img width='35' alt='FedoraLinux' src='./images/Fedora.png'></code>
-</div>
+
+<p align="center">
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6#gh-dark-mode-only" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6&theme=light#gh-light-mode-only" />
+</p>
+
 <br />
 
 <div>
