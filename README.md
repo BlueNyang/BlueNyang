@@ -35,7 +35,7 @@
 
 <div>
   <a target="_blank" href="https://github.com/BlueNyang?tab=repositories">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bluenyang&size_weight=0.5&count_weight=0.5&exclude_repo=ComputerGraphics,WindowProgramming,Multicampus,Image-Processing,C-Programming&langs_count=6&hide=html,css&layout=compact&theme=tokyonight'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bluenyang&size_weight=0.5&count_weight=0.5&exclude_repo=ComputerGraphics,WindowProgramming,Multicampus,Image-Processing,C-Programming&langs_count=6&hide=html,css,svg&layout=compact&theme=tokyonight'/>
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=bluenyang&theme=tokyonight&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CFri%2CSat&card_height=160" alt="GitHub Streak" />
